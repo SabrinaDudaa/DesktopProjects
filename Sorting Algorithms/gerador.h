@@ -1,0 +1,1 @@
+void gerarNumeros(int n, int opcao);
